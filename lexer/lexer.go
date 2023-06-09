@@ -1,6 +1,6 @@
 package lexer
 
-import "github.com/maple/token"
+import "github.com/jushutch/maple/token"
 
 type Lexer struct {
 	input        string

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/maple/lexer"
-	"github.com/maple/token"
+	"github.com/jushutch/maple/lexer"
+	"github.com/jushutch/maple/token"
 )
 
 const PROMPT = ">> "

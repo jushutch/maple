@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/user"
 
-	"github.com/maple/repl"
+	"github.com/jushutch/maple/repl"
 )
 
 func main() {
